@@ -1,4 +1,4 @@
-Linea numero 1, viene dal 1 commit rimarrá per sempre
+Linea numero 1, viene dal 1 commit rimarrà per sempre
 
 Linea 2, cambiata per il commit 2, questo testo viene dal commit 2
 

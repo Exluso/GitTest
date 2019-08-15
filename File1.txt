@@ -3,3 +3,5 @@ Linea numero 1, viene dal 1 commit rimarrá per sempre
 Linea 2, cambiata per il commit 2, questo testo viene dal commit 2
 
 Linea 3, Aggiunta nel commit 3
+
+Linea 4 for diff
